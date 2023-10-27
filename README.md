@@ -11,7 +11,7 @@ Please follow these steps for usage.
 Create a `config.tfvars` file and update the variables:
 
 ```hcl
-aws_profile = "<AWS_PROFILE>
+aws_profile = "<AWS_PROFILE>"
 region      = "<AWS_REGION>"
 
 ## These values are used for AWS resource tags
