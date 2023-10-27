@@ -1,0 +1,13 @@
+# Configuration Variables
+
+aws_profile = 
+region      = 
+
+project     = 
+owner       = 
+environment = 
+
+emr_release_label       = "emr-6.9.1"
+emr_main_instance_type  = "m5.xlarge"
+emr_core_instance_type  = "m5.xlarge"
+emr_core_instance_count = "2"

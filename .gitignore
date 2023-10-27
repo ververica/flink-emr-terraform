@@ -1,0 +1,7 @@
+.terraform/
+config.tfvars
+terraform.tfplan
+terraform.tfstate
+terraform.tfstate.backup
+generated
+rendered
